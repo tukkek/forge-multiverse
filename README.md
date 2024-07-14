@@ -25,7 +25,7 @@ The Multiverse world has been playtested with a custom format, including the Cla
 
 ## Installation
 
-1. Download the Multiverse world
+1. Download the Multiverse world https://github.com/tukkek/forge-multiverse/archive/refs/heads/main.zip
 2. Extract it on the `res/quest/world/` sub-folder of your Forge Installation.
 3. Copy-paste the line from `add to worlds.txt` to `worlds.txt` in the same folder.
 
